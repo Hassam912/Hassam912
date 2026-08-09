@@ -1,9 +1,8 @@
 # Hassam Asghar
 
-**I build the model that decides what to do — and the system that runs it.**
+**Analytics that ends in a decision, not a dashboard.**
 
-Analytics professional with a Master of Management Analytics from Queen's (Smith School
-of Business). I work at the point where optimization, machine learning and automation
+Master of Management Analytics from Queen's (Smith School of Business). I work at the point where optimization, machine learning and automation
 meet a real P&L — including my own: a home-goods brand whose inventory I plan with a
 linear program I wrote.
 
