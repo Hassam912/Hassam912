@@ -61,5 +61,5 @@ linear program I wrote.
 
 ## Reach me
 
-[![Email](https://img.shields.io/badge/Email-hassamasghar94@gmail.com-0b6b58?style=flat&logo=gmail&logoColor=white)](mailto:hassamasghar94@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hassam.asghar.work@gmail.com-0b6b58?style=flat&logo=gmail&logoColor=white)](mailto:hassam.asghar.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassam-asghar-69628b219)
